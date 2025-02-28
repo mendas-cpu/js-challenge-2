@@ -1,5 +1,4 @@
 const bodyElement = document.querySelector('body');
-let speed = 50;
 class Game {
     constructor(rows, cols, cellSize) {
         this.rows = rows;
